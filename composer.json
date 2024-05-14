@@ -1,0 +1,33 @@
+{
+    "name": "onkihara/b3",
+    "description": "blikk s3 emulator",
+    "license": "MIT",
+    "keywords": [
+        "blikk",
+        "laravel",
+        "B3"
+    ],
+    "authors": [
+        {
+            "name": "ah",
+            "email": "info@blikk.it"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "firebase/php-jwt": "^6.10",
+        "guzzlehttp/guzzle": "^7.2"
+    },
+     "autoload": {
+        "psr-4": {
+            "Onkihara\\B3\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Onkihara\\B3\\ServiceProvider"
+            ]
+        }
+    }
+}
