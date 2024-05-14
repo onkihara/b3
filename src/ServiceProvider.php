@@ -25,7 +25,7 @@ class ServiceProvider extends Baseprovider
         // config -> merge to filesystems.php
         
         $this->mergeConfigFrom(
-            __DIR__.'/../config/filesystems.php', 'filesystems'
+            __DIR__.'/../config/filesystems.php', 'filesystems.disks'
         );
 
         // extend storage
