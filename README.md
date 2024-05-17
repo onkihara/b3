@@ -1,6 +1,6 @@
 # B3
 
-The S3-Emulator for blikk implements only a subset of FilesystemAdaper-Methods
+A Filysystem Driver for laravel and blikk filemanager
 
 # Install
 

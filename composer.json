@@ -1,6 +1,6 @@
 {
     "name": "onkihara/b3",
-    "description": "blikk s3 emulator",
+    "description": "filesystem driver for blikk filemanager",
     "license": "MIT",
     "keywords": [
         "blikk",
