@@ -1,6 +1,6 @@
 # B3
 
-A Filysystem Driver for laravel and blikk filemanager
+A Filesystem Driver for laravel and blikk filemanager
 
 # Install
 
